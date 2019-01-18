@@ -1,1 +1,7 @@
-[clique sur moi](/Syntaxe.md){:	.btn}
+
+[Syntaxe](/Syntaxe.md)
+
+[Introduction](/Introduction.md)
+
+[Ambiance](/ambiance.md)
+
