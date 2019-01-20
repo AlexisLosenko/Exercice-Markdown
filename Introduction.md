@@ -1,3 +1,12 @@
+```
+Pour voyager entre les différents fichier
+```
+
+[Syntaxe](/Syntaxe.md)
+
+[Ambiance](/ambiance.md)
+
+
 ![Image d'introduction](http://crueltobekind.fr/sites/all/themes/crueltobekind/images/logo-intro.png)
 
 Markdown est un moyen de stylisé du texte sur le web. Il s’agit d’un langage de balisage.
