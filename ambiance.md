@@ -1,3 +1,10 @@
+```
+Pour voyager plus rapidement entre les fichier
+```
+[Introduction](/Introduction.md)
+
+[Syntaxe](/Syntaxe.md)
+
 Qu'est ce qu'un Environnement Optimisé pour l' Apprentissage?
 
  
