@@ -1,3 +1,12 @@
+```
+Pour voyager entre les différents fichier
+```
+
+[Syntaxe](/Syntaxe.md)
+
+[Ambiance](/ambiance.md)
+
+
 ![Image d'introduction](http://crueltobekind.fr/sites/all/themes/crueltobekind/images/logo-intro.png)
 
 # Qu'est-ce que Markdown?
