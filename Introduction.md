@@ -18,7 +18,6 @@ Vous controlez l’affichage du document, le formatage des mots comme l’italiq
 
 La plupart du temps, Markdown se présente sous la forme d’un texte avec quelques caractères spéciaux comme # ou *
 
-|           test   |                           |
 |------------------|---------------------------|
 | Extension        | .md , .markdown           |
 | Développé par    | Aaron Swartz, John Gruber |
