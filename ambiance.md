@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ```
 Pour voyager plus rapidement entre les fichier
 ```
@@ -6,11 +6,10 @@ Pour voyager plus rapidement entre les fichier
 
 [Syntaxe](/Syntaxe.md)
 
-Qu'est ce qu'un Environnement Optimisé pour l' Apprentissage?
-=======
+
 ### Qu'est ce qu'un Environnement Optimisé pour l' Apprentissage?
 ===============================================================================
->>>>>>> 33f018970659ca75dab524737f7099951267c34e
+
 
  
 Il existe plusieurs facteurs pour une bonne optimisation de son apprentissage dans n'importe quel domaine.
@@ -28,12 +27,15 @@ Le fait d'être entourer de personnes vous permettra de ne pas vous sentir seul 
 3.Les bons outils 
 ----------------------------------
 Pour un apprentissage réussi , vous devez vous munir de quelques outils qui vous aiderons a mieux avancer dans votre démarche , tel que : 
+
 *Des livres 
+
 *Documentations
+
 *Internet (avec des liens fiables ) 
 
 4.L'organisation 
 --------------------------------
-Une bonne organisation vous aidera a avoir une bonne strucutre de votre apprentissage , ne sauter pas les étapes , allez-y doucement et à votre rythme !  
+Une bonne organisation vous aidera a avoir une bonne structure de votre apprentissage , ne sauter pas les étapes , allez-y doucement et à votre rythme !  
 
  
