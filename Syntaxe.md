@@ -233,6 +233,15 @@ ___
 Underscores
 
 
+Pour la coloration syntaxique, il suffit après trois ` de mettre le nom du langage (exemple, ici ce sera de l'HTML) de mettre son code et de conclure cela par une nouvelle fois trois fois les apostrophe à l'envers
+Exemple:
+
+```HTML
+<script type="text/javascript">
+	alert("Hello!");
+</script>
+```
+
 [Introduction](/Introduction.md)
 
 [Ambiance](/ambiance.md)
