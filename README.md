@@ -1,6 +1,6 @@
 # Exercice Markdown
 
-Travail réalisé par **Alexis Losenko**, **Joshua Dedecker** , **Soufian Nelhazman** et **Oliver Vandevelde**
+Travail réalisé par **Alexis Losenko**, **Joshua De Decker** , **Soufian Nelhazman** et **Oliver Vandevelde**
 
 ## Petit tuto en markdown
 
