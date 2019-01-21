@@ -6,6 +6,7 @@ Pour voyager entre les différents fichier
 
 [Ambiance](/ambiance.md)
 
+___
 
 ![Image d'introduction](http://crueltobekind.fr/sites/all/themes/crueltobekind/images/logo-intro.png)
 
@@ -14,6 +15,7 @@ Markdown est un moyen de stylisé du texte sur le web. Il s’agit d’un langag
 Vous controlez l’affichage du document, le formatage des mots comme l’italique ou le gras, l’ajout d’images, et la création de liste sont juste quelques exemples que l’on peut réaliser avec Markdown. 
 
 ## But:
+
 Syntaxe facile à lire et à écrire. Un document crée en md peut tout à fait être lisible s'il n’est pas reconnu. IL peut également être converti en HTML.
 
 La plupart du temps, Markdown se présente sous la forme d’un texte avec quelques caractères spéciaux comme # ou *
@@ -24,10 +26,11 @@ La plupart du temps, Markdown se présente sous la forme d’un texte avec quelq
 | Développé par    | Aaron Swartz, John Gruber |
 | Première version | 2004                      |
 
-On retrouve quelques similarités dans les balises Markdown avec celles de Discord de même que Wordpress qui y intègre quelques éléments. Des plugins firefox et chrome l'incorpore également.
+>On retrouve quelques similarités dans les balises Markdown avec celles de Discord de même que Wordpress qui y intègre quelques >éléments. Des plugins firefox et chrome l'incorpore également.
 
 
 Source:
+__
 
 * [Wikipedia](https://fr.wikipedia.org/wiki/Markdown)
 * [Guide GitHub](https://guides.github.com/features/mastering-markdown/)
